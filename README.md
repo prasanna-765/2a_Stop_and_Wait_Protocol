@@ -1,6 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
 PRASANNA A
+
 212223220078
+
 B Tech IT
 ## AIM 
 To write a python program to perform stop and wait protocol
