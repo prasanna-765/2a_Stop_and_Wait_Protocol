@@ -51,7 +51,7 @@ while True:
 ```   
 PROGRAM FOR SERVER:
 
-"""import socket
+```import socket
 
 s=socket.socket()
 
@@ -61,7 +61,9 @@ while True:
 
 print(s.recv(1024).decode())
 
-   s.send("acknowledgement recived from the server".encode())"""
+   s.send("acknowledgement recived from the server".encode())
+```
+
 
   ##OUTPUT
 
